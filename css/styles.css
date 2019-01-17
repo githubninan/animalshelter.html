@@ -1,0 +1,30 @@
+.column {
+  width: 20%;
+  float: left;
+  margin: 5px;
+  text-align: center;
+  padding: 5px;
+}
+
+p {
+  font-family: normal;
+  text-align: center;
+}
+
+h1 {
+  color: blue;
+}
+
+img {
+  width: 50%;
+  float: bottom;
+}
+
+.column h3 {
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.column p {
+  font-family: cursive;
+}
